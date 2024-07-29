@@ -1,3 +1,4 @@
+create view CATEG as 
 select 	GI.id as CATEG_ID, 
 		GI.id as CATEG_ID_SUPERIOR, 
 		GI.completename as CATEG_NAME, 
